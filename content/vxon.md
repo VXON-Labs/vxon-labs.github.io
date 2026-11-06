@@ -2,6 +2,7 @@
 title: "🔮 VXON"
 date: 2022-06-02
 hidden: true
+noindex: true
 ---
 
 Flag Status: Not Found
